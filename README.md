@@ -6,7 +6,7 @@
 Adapted by Christoph Fischer and Jesús Céspedes Rivera 
 
 ## Boosted Regression Tree Model 
-*The code can also be accesed by: https://posit.cloud/content/7299327*
+*The code can also be accessed by: https://posit.cloud/content/7299327*
 
 ```R
 # Import data table
